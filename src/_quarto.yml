@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: articles.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact Me"
+        href: contact.qmd
+  page-footer:
+    left: "[Amit Sinha](http://amitfishy.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

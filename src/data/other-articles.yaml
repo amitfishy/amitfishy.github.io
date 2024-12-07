@@ -1,0 +1,72 @@
+- index     : 1
+  title     : "Asymmetric Actor Critic with Approximate Information State"
+  authors   :
+    - Amit Sinha
+    - Aditya Mahajan
+  journal: IEEE Conference on Decision and Control (CDC)
+  location  : Singapore
+  date      : Dec 2023
+  pdf       : papers/cdc-asym-ac-ais-2023.pdf
+
+- index     : 2
+  title     : "Dealing With Non-stationarity in Decentralized Cooperative Multi-Agent Deep Reinforcement Learning via Multi-Timescale Learning"
+  authors   :
+    - Hadi Nekoei
+    - Akilesh Badrinaaraayanan
+    - Amit Sinha
+    - Mohammad Amini
+    - Janarthanan Rajendran
+    - Aditya Mahajan
+    - Sarath Chandar
+  journal   : Conference on Lifelong Learning Agents (CoLLA)
+  location  : Montreal, Canada
+  date    : Aug 2023
+  pdf       : papers/colla-staged-learning-2023.pdf
+
+- index     : 3
+  title     : "Approximate information state based convergence analysis of recurrent Q-learning"
+  authors   :
+    - Erfan Seyedsalehi
+    - Nima Akbarzadeh
+    - Amit Sinha
+    - Aditya Mahajan
+  journal   : European Workshop on Reinforcement Learning
+  date    : June 2023
+  arxiv   : "2306.05991"
+  pdf       : papers/ewrl-asql-2023.pdf
+
+- index     : 4
+  title     : "Robustness and sample complexity of model-based MARL for general-sum Markov games"
+  authors   : 
+    - Jayakumar Subramanian
+    - Amit Sinha
+    - Aditya Mahajan
+  journal   : Dynamic Games and Application
+  date      : March 2023 
+  pages     : 56-88
+  pdf       : papers/dgaa-markov-games-2022.pdf
+  doi       : 10.1007/s13235-023-00490-2
+
+- index     : 5
+  title     : "Robustness of Markov perfect equilibrium to model approximations in general-sum dynamic games"
+  authors   :
+    - Jayakumar Subramanian
+    - Amit Sinha
+    - Aditya Mahajan
+  journal: Indian Control Conference
+  location  : Virtual
+  date      : Dec 2021
+  pdf       : papers/dgaa-markov-games-2022.pdf
+
+- index     : 6
+  title     : "An Approach Towards Automated Navigation of Vehicles using Overhead Cameras"
+  authors   :
+    - V. Sri Chakra Kumar
+    - Amit Sinha
+    - Pratheek P. Mallya
+    - Nutanlata Nath
+  journal: IEEE International Conference on Computational Intelligence and Computing Research 
+  location  : Coimbatore, India
+  date      : Dec 2017
+  pdf       : papers/IEEE-ICCIC-overhead-vision-2017.pdf
+

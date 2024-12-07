@@ -1,0 +1,37 @@
+- index     : 1
+  title     : "Periodic agent-state based Q-learning for POMDPs"
+  authors   :
+    - Amit Sinha
+    - Matthieu Geist
+    - Aditya Mahajan
+  date      : Dec 2024
+  journal   : Conference on Neural Information Processing Systems (Neurips)
+  location  : Vancouver, Canada
+  arxiv     : "2407.06121"
+  pdf       : papers/neurips-pasql-2024.pdf
+
+- index     : 2
+  title     : "Agent-state based policies in POMDPs: Beyond belief-state MDPs"
+  authors   :
+    - Amit Sinha
+    - Aditya Mahajan
+  journal   : IEEE Conference on Decision and Control (CDC)
+  date      : Dec 2024
+  pdf       : papers/cdc-tutorial-2024.pdf
+
+- index     : 3
+  title     : "Approximate information state for approximate planning and reinforcement learning in partially observed systems"
+  authors   :
+    - Jayakumar Subramanian
+    - Amit Sinha
+    - Raihan Seraj
+    - Aditya Mahajan
+  journal   : Journal of Machine Learning Research
+  date      : Feb 2022 
+  volume    : 23
+  number    : 12
+  pages     : 1-83
+  pdf       : papers/jmlr-ais-2022.pdf
+  code      : https://github.com/info-structures/ais
+  url       : https://www.jmlr.org/papers/v23/20-1165.html
+
