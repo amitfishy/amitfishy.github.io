@@ -1,8 +1,0 @@
----
-title: "Curriculum vitae"
----
-
-
-<p style="text-align:justify;">
-Download my CV [here](files/Amit-Resume.pdf)!
-</p>
