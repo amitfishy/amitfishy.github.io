@@ -4,5 +4,5 @@ title: "Contact Me"
 
 
 <p style="text-align:justify;">
-If you're interested in a general discussion or career related opportunities, please send me an [email](mailto:amitfishy@gmail.com)!
+If you're interested in a general discussion or career related opportunities, please send me an [email](mailto:amit.sinha@mail.mcgill.ca)!
 </p>
