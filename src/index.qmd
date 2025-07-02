@@ -39,11 +39,13 @@ My current research interests are centered around **reinforcement learning** for
 </p>
 
 <p style="text-align:justify;">
-In other words, I consider how a complicated amalgam of information used by an automated decision making agent can be reduced to smaller, simpler and more efficient blocks of information; and subsequently how to use these efficient blocks of information to learn automated decision making strategies that satisfy some pre-defined utility.
+In other words, I consider how vast amounts of complex information used by an automated decision making agent can be reduced to smaller, simpler and more efficient blocks of information; and subsequently how we can use these efficient blocks of information to learn automated decision making strategies that are useful.
 </p>
 
 
 # Recent News
+
+* <u>Jun 2025</u>: Excited to be doing a PhD research internship at *Adobe* during the summer!
 
 * <u>Dec 2024</u>: Attending *NeurIPS 2024*.
 

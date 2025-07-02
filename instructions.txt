@@ -1,0 +1,13 @@
+Instructions on updating the website:
+1. Update any pdf link documents and update the git repo.
+2. Make any updates in the .qmd files in src/
+3. quarto render src
+4. Replace git repo files with updated files(generated from render) in src/_site/*
+5. Update git repo.
+
+OR
+
+1. Make updates in src/
+2. quarto render src
+3. Replace outer git files with src/_site/*
+4. Update git repo
